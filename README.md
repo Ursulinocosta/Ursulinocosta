@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Ursulinocosta/Ursulinocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Ursulino Costa 🤙
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/ursulino-costa-0b1975156/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linnuxz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ursulino GitHub stats](https://github-readme-stats.vercel.app/api?username=Ursulinocosta&show_icons=true&theme=dracula)
+
+
+## Tecnologias:
+<div style="display: inline_block"><br/>
+<img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img aling="center" alt="Javascript" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img aling="center" alt="Javascript" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit"/>
+<img aling="center" alt="Javascript" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div></br>
+
+A tecnologia move o mundo.
+
+
