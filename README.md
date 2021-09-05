@@ -16,6 +16,4 @@
 </div></br>
 
 A tecnologia move o mundo.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ursulinocosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img aling="center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="150" width="150"/>
