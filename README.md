@@ -14,10 +14,9 @@
 <img aling="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit"/>
 <img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
- 
+<img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 </div></br>
 
 
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ursulinocosta&layout=compact&langs_count=7&theme=dracula" />
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ursulinocosta&theme=dracula"/>
 <img aling="center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="150" width="150"/>
- 
