@@ -6,7 +6,7 @@
 <a href="https://github.com/ursulinocosta">
  
   <a href="https://github.com/ursulinocosta">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ursulinocosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   
 ## Tecnologias:
 <div style="display: inline_block"><br>
@@ -18,5 +18,5 @@
 </div></br>
 
 
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ursulinocosta&theme=dracula"/>
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ursulinocosta&theme=dark"/>
 <img aling="center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="150" width="150"/>
