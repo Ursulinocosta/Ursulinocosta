@@ -1,5 +1,16 @@
+<h1 align = "center"> Olá 👋, sou Ursulino </h1>
+<h3 align = "center"> Amante da tecnologia </h3>
 
-### Olá! Eu sou o Ursulino Costa 🤙
+- 🌱 Atualmente estou aprendendo  Testes automatizados 
+
+- 👨‍ 💻 Todos os meus projetos estão disponíveis em [https://github.com/Ursulinocosta](https://github.com/Ursulinocosta)
+
+- 📫 Como entrar em contato comigo **sulinocosta@gmail.com**
+
+- 📄 Saiba mais sobre meu experiências [https://drive.google.com/file/d/1HG-cwbSOTaeg8ydZ78jyDE8Y6qodWV_p/view?usp=drivesdk](https://drive.google.com/file/d/1HG-cwbSOTaeg8ydZ78jyDE8Y6qodkdus_p/view )
+
+<h3 align = "left"> Conecte-se a mim: </h3>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/ursulino-costa-0b1975156/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linnuxz/)
@@ -22,3 +33,4 @@
 
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ursulinocosta&theme=dark"/>
 <img aling="center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="150" width="150"/>
+ <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" /> </p>
