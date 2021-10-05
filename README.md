@@ -1,4 +1,4 @@
-<h1 align = "center"> Olá 👋, sou Ursulino </h1>
+<h1 align = "center"> Olá, sou Ursulino 👋 </h1>
 <h3 align = "center"> Amante da tecnologia </h3>
 
 - 🌱 Atualmente estou aprendendo  Testes automatizados 
