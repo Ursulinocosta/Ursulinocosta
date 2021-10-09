@@ -29,7 +29,6 @@
 <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 </div></br>
 
-
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ursulinocosta&theme=dark"/>
 <img aling="center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="150" width="150"/>
  <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" /> </p>
