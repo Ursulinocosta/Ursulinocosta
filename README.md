@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá, sou Ursulino 👋 </h1>
 <h3 align = "center"> Amante da tecnologia </h3>
 
-- 🌱 Atualmente estou aprendendo  Testes automatizados 
+- 🌱 Atualmente estou aprendendo  Testes automatizados com Robot framework
 
 - 👨‍ 💻 Todos os meus projetos estão disponíveis em [https://github.com/Ursulinocosta](https://github.com/Ursulinocosta)
 
