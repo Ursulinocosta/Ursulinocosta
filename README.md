@@ -9,13 +9,12 @@
 
 - 📫 Como entrar em contato comigo **sulinocosta@gmail.com**
 
-- 📄 Saiba mais sobre meu experiências [https://drive.google.com/file/d/1HG-cwbSOTaeg8ydZ78jyDE8Y6qodWV_p/view?usp=drivesdk](https://drive.google.com/file/d/1HG-cwbSOTaeg8ydZ78jyDE8Y6qodkdus_p/view )
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/ursulino-rocha)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linnuxz/)
+
 <a href="https://github.com/ursulinocosta">
  
   <a href="https://github.com/ursulinocosta">
