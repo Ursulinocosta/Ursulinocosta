@@ -19,8 +19,8 @@
 
 <a href="https://github.com/Ursulinocosta">
  
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
- <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+ <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" />
    
 ## Tecnologias:
 <div style="display: inline_block"><br>
