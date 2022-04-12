@@ -5,7 +5,7 @@
 
 - 📌 Entusiasta de Desenvolvimento Web
 
-- 🌱 Atualmente aprendendo  Testes automatizados com Robot framework
+- 🌱 Atualmente aprendendo JavaScript e seus Frameworks
 
 - 💻 Todos os meus projetos estão disponíveis em [https://github.com/Ursulinocosta](https://github.com/Ursulinocosta)
 
