@@ -23,7 +23,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 <img height = "195em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ursulinocosta&theme=dark"/>
  <h1></h1> 
-<h3 align = "left"> Tecnologias: </h3>
+<h3 align = "left"> Tecnologias / Ferramentas: </h3>
 <div style="display: inline_block"><br>
    <img alt="JavaScript" height ="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 ⠁ <img alt="HTML5"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
