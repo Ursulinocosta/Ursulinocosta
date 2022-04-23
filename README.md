@@ -5,12 +5,12 @@
 📌 Entusiasta de Desenvolvimento Web<p>
 🌱 Atualmente aprendendo JavaScript e seus Framework<p>
 💻 Todos os meus projetos estão disponíveis em https://github.com/Ursulinocosta<p>
-📫 Como entrar em contato comigo **sulinocosta@gmail.com**
 
 <h3 align = "center"> Conecte-se a mim: </h3>
 
 <a href="https://www.linkedin.com/in/ursulino-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.gg/cW82hJHy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="mailto:sulinocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <a href="https://github.com/Ursulinocosta">
@@ -24,6 +24,7 @@
 ⠁ <img alt="HTML5"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 ⠁ <img alt="CSS"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 ⠁ <img alt="Bootstrap"  height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+⠁ <img alt="nodejs"     height="35em"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 ⠁ <img alt="Git"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 ⠁ <img alt="Canva"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 ⠁ <img alt="Github"     height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
