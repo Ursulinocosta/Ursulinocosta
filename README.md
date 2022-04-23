@@ -1,15 +1,15 @@
-<h1 align = "center"> Olá, sou Ursulino 👋  </h1>
+<h1 align = "center"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ursulino   </h1>
 <h3 align = "center"> Amante da tecnologia </h3>
 
-- 🎓 Estudante de Analise e Desenvolvimento de Sistemas 
+<h4 align = "center"> 🎓 Estudante de Analise e Desenvolvimento de Sistemas</4>
 
-- 📌 Entusiasta de Desenvolvimento Web
+<h4 align = "center">📌 Entusiasta de Desenvolvimento Web</4>
 
-- 🌱 Atualmente aprendendo JavaScript e seus Frameworks
+<h4 align = "center">🌱 Atualmente aprendendo JavaScript e seus Frameworks</4>
 
-- 💻 Todos os meus projetos estão disponíveis em [https://github.com/Ursulinocosta](https://github.com/Ursulinocosta)
+<h4 align = "center">💻 Todos os meus projetos estão disponíveis em https://github.com/Ursulinocosta</4>
 
-- 📫 Como entrar em contato comigo **sulinocosta@gmail.com**
+<h4 align = "center">📫 Como entrar em contato comigo **sulinocosta@gmail.com**</4>
 
 
 <h3 align = "left"> Conecte-se a mim: </h3>
