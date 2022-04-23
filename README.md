@@ -1,13 +1,13 @@
 <h1 align = "center"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ursulino   </h1>
 <h3 align = "center"> Amante da tecnologia </h3>
+<div align="center"><p>
+🎓 Estudante de Analise e Desenvolvimento de Sistemas<p>
+📌 Entusiasta de Desenvolvimento Web<p>
+🌱 Atualmente aprendendo JavaScript e seus Framework<p>
+💻 Todos os meus projetos estão disponíveis em https://github.com/Ursulinocosta<p>
+📫 Como entrar em contato comigo **sulinocosta@gmail.com**
 
-<h4 align = "center"> 🎓 Estudante de Analise e Desenvolvimento de Sistemas</4>
-<h4 align = "center">📌 Entusiasta de Desenvolvimento Web</4>
-<h4 align = "center">🌱 Atualmente aprendendo JavaScript e seus Frameworks</4>
-<h4 align = "center">💻 Todos os meus projetos estão disponíveis em https://github.com/Ursulinocosta</4>
-<h4 align = "center">📫 Como entrar em contato comigo **sulinocosta@gmail.com**</4>
-
-<div align="center"><h3 align = "center"> Conecte-se a mim: </h3>
+<h3 align = "center"> Conecte-se a mim: </h3>
 
 <a href="https://www.linkedin.com/in/ursulino-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.gg/cW82hJHy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
