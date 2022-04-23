@@ -44,4 +44,7 @@
 
  <img aling = "center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="200" width="200"/>
  
+![Snake animation](https://github.com/Ursulinocosta/Ursulinocosta/blob/output/github-contribution-grid-snake.svg)
+
+ 
 
