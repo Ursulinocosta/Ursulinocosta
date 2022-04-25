@@ -4,7 +4,6 @@
 🎓 Estudante de Analise e Desenvolvimento de Sistemas<p>
 📌 Entusiasta de Desenvolvimento Web<p>
 🌱 Atualmente aprendendo JavaScript e seus Framework<p>
-💻 Todos os meus projetos estão disponíveis em https://github.com/Ursulinocosta<p>
 
 <h3 align = "center"> Conecte-se a mim: </h3>
 
