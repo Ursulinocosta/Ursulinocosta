@@ -14,8 +14,8 @@
 
 <a href="https://github.com/Ursulinocosta">
  
-  <img src = "https://github-readme-stats.vercel.app/api?username=ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height = "195em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ursulinocosta&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ursulinocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ursulinocosta&layout=compact&langs_count=7&theme=dark"/>
  <h1></h1> 
 <h3 align = "center"> Tecnologias / Ferramentas: </h3>
 <div style="display: inline_block"><br>
