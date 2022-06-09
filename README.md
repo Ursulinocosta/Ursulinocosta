@@ -1,4 +1,4 @@
-<h1 align = "center"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ursulino </h1>
+<h1 align = "center"> Olá, sou Ursulino </h1>
 <h3 align = "center"> Amante da tecnologia </h3>
 <div align="center"><p>
 🎓 Estudante de Analise e Desenvolvimento de Sistemas<p>
