@@ -35,7 +35,7 @@
 
 </div></br>
 
- <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" />
+<!-- <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" />-->
 
  <img aling = "center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="200" width="200"/>
  
