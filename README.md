@@ -30,16 +30,17 @@
 ⠁ <img alt="Vs-Code"    height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 ⠁ <img alt="Figma"      height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
       
-          
-<h1></h1>                                                                                                               
-
-</div></br>
-
-<!-- <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" />-->
-
- <img aling = "center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="200" width="200"/>
  
-![Snake animation](https://github.com/Ursulinocosta/Ursulinocosta/blob/output/github-contribution-grid-snake.svg)</div>
+<h1></h1>   
+        <img aling = "center" alt="gif" src="https://media.giphy.com/media/ThudM9Zg6wKEmkeBZK/giphy.gif" height="200" width="200"/>   
+
+<!--</div></br>
+
+ <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=ursulinocosta&theme=dark" alt = "ursulinocosta" />
+
+
+ 
+[Snake animation](https://github.com/Ursulinocosta/Ursulinocosta/blob/output/github-contribution-grid-snake.svg)</div>-->
 
  
 
