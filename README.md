@@ -18,6 +18,7 @@
 ⠁ <img alt="HTML5"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 ⠁ <img alt="CSS"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 ⠁ <img alt="Java"       height="35em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+⠁<img alt"SQL"          height="35em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <!--⠁ <img alt="Bootstrap"  height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />-->
 ⠁ <img alt="Figma"      height="35em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <!--⠁ <img alt="nodejs"     height="35em"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">-->
