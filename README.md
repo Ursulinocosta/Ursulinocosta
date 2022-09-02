@@ -1,4 +1,4 @@
-<h3 align = "center"> Olá, sou Ursulino </h3>
+<h2 align = "center"> Olá, sou Ursulino </h2>
 <h3 align = "center"> Amante da tecnologia </h3>
 <div align="center"><p>
 🎓 Estudante de Analise e Desenvolvimento de Sistemas<p>
@@ -22,9 +22,7 @@
 <!--⠁ <img alt="Bootstrap"  height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />-->
 ⠁ <img alt="Mysql"      height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <!--⠁ <img alt="nodejs"     height="40em"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">-->
-
-<br>
- <img alt="Git"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+⠁  <img alt="Git"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 ⠁ <img alt="Canva"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 ⠁ <img alt="Github"     height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 ⠁ <img alt="Vs-Code"    height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
