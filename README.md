@@ -1,4 +1,4 @@
-<h1 align = "center"> Olá, sou Ursulino </h1>
+<h3 align = "center"> Olá, sou Ursulino </h3>
 <h3 align = "center"> Amante da tecnologia </h3>
 <div align="center"><p>
 🎓 Estudante de Analise e Desenvolvimento de Sistemas<p>
@@ -14,15 +14,17 @@
   <h1></h1> 
 <h3 align = "center"> Tecnologias / Ferramentas: </h3>
 <div style="display: inline_block"><br>
-   <img alt="JavaScript" height ="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-⠁ <img alt="HTML5"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-⠁ <img alt="CSS"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-⠁ <img alt="Java"       height="35em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-⠁ <img alt="SQL"        height="35em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<!--⠁ <img alt="Bootstrap"  height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />-->
-⠁ <img alt="Mysql"      height="35em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<!--⠁ <img alt="nodejs"     height="35em"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">-->
-⠁ <img alt="Git"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+   <img alt="JavaScript" height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+⠁ <img alt="HTML5"      height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+⠁ <img alt="CSS"        height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+⠁ <img alt="Java"       height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+⠁ <img alt="SQL"        height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<!--⠁ <img alt="Bootstrap"  height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />-->
+⠁ <img alt="Mysql"      height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<!--⠁ <img alt="nodejs"     height="40em"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">-->
+
+<br>
+ <img alt="Git"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 ⠁ <img alt="Canva"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 ⠁ <img alt="Github"     height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 ⠁ <img alt="Vs-Code"    height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
