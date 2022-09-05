@@ -6,12 +6,12 @@
 🎓 Systems Analysis and Development Student<br>
 📌 Web Development Enthusiast<br>
 🌱 Currently learning JavaScript and its Frameworks<br>
- 
-Systems Analysis and Development student at the moment working as IT Support, passionate about technology, I had my first contact with programming in 2021, year I won my scholarship at a public college, since then I have always sought to improve myself and learn new technologies.
+
+<h3 align = "center"> A little about me: </h3>
+ Systems Analysis and Development student at the moment working as IT Support, passionate about technology, I had my first contact with programming in 2021, year I won my scholarship at a public college, since then I have always sought to improve myself and learn new technologies.
 
 
 <h3 align = "center"> Connect to me: </h3>
-
 <a href="https://www.linkedin.com/in/ursulino-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.gg/cW82hJHy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="mailto:sulinocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
