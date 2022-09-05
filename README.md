@@ -1,20 +1,23 @@
-<h2 align = "center"> Olá, sou Ursulino </h2>
-<h3 align = "center"> Amante da tecnologia </h3>
+<h2 align = "center"> Hi, I'm Ursulino </h2>
+<h3 align = "center"> Technology lover </h3>
 <div align="center"><p>
 
-💼 Analista de Suporte <br>
-🎓 Estudante de Analise e Desenvolvimento de Sistemas<br>
-📌 Entusiasta de Desenvolvimento Web<br>
-🌱 Atualmente aprendendo JavaScript e seus Frameworks<br>
+💼 Support Analyst <br>
+🎓 Systems Analysis and Development Student<br>
+📌 Web Development Enthusiast<br>
+🌱 Currently learning JavaScript and its Frameworks<br>
+ 
+Systems Analysis and Development student at the moment working as IT Support, passionate about technology, I had my first contact with programming in 2021, year I won my scholarship at a public college, since then I have always sought to improve myself and learn new technologies.
 
-<h3 align = "center"> Conecte-se a mim: </h3>
+
+<h3 align = "center"> Connect to me: </h3>
 
 <a href="https://www.linkedin.com/in/ursulino-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.gg/cW82hJHy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="mailto:sulinocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   <h1></h1> 
-<h3 align = "center"> Tecnologias / Ferramentas: </h3>
+<h3 align = "center"> Technologies / Tools </h3>
 <div style="display: inline_block"><br>
    <img alt="JavaScript" height ="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 ⠁ <img alt="HTML5"      height ="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
