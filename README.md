@@ -25,7 +25,7 @@
 ⠁ <img alt="Bootstrap"  height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 ⠁ <img alt="Java"       height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 ⠁ <img alt="SQL"        height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<!--⠁ <img alt="Mysql"      height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />-->
+⠁ <img alt="Mysql"      height="40em" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <!--⠁ <img alt="nodejs"     height="40em"  src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">-->
 ⠁  <img alt="Git"        height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 ⠁ <img alt="Canva"      height ="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
