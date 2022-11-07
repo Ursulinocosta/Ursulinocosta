@@ -2,7 +2,7 @@
 <h3 align = "center"> Technology lover </h3>
 <div align="center"><p>
 
-💼 Support Analyst <br>
+💼 Junior Support Analyst <br>
 🎓 Systems Analysis and Development Student<br>
 📌 Web Development Enthusiast<br>
 🌱 Currently learning JavaScript and its Frameworks<br>
