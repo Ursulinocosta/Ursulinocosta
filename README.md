@@ -8,9 +8,9 @@
 🌱 Currently learning JavaScript and its Frameworks<br>
 
 <h3 align = "center"> A little about me: </h3>
- Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, tive meu primeiro contato com programação em 2021, ano que conquistei minha bolsa de estudos em uma faculdade pública, desde então sempre busquei me aprimorar e aprender novas tecnologias.
+Systems Analysis and Development student, passionate about technology, I had my first contact with programming in 2021, the year I won my scholarship at a public college, since then I have always sought to improve myself and learn new technologies.
 
-Conhecimentos em: Programação Orientada a Objetos (POO), Arquitetura e desenvolvimento de software no modelo MVC, Criação de sites atentando a Acessibilidade na Web, Modelagem em Banco de Dados e Metodologias ágeis.
+Knowledge in: Object Oriented Programming (POO), Architecture and software development in the MVC model, Creation of websites paying attention to Web Accessibility, Database Modeling and Agile Methodologies.
 
 
 <h3 align = "center"> Connect to me: </h3>
